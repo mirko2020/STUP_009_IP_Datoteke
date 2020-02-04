@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/yi/etf/studiranje/datoteke/config/Config.java=UTF-8
+encoding//src/yi/etf/studiranje/datoteke/control/FileListEngine.java=UTF-8
+encoding//src/yi/etf/studiranje/datoteke/gui/FileExplorerCenter.java=UTF-8
+encoding//src/yi/etf/studiranje/datoteke/gui/FileExplorerController.java=UTF-8
+encoding//src/yi/etf/studiranje/datoteke/gui/FileExplorerProgram.java=UTF-8
+encoding//src/yi/etf/studiranje/datoteke/gui/RootsListFormController.java=UTF-8
+encoding//src/yi/etf/studiranje/datoteke/lang/Describable.java=UTF-8
+encoding//src/yi/etf/studiranje/datoteke/lang/FileListException.java=UTF-8
+encoding//src/yi/etf/studiranje/datoteke/model/FileList.java=UTF-8
+encoding//src/yi/etf/studiranje/datoteke/util/FileListChecker.java=UTF-8
+encoding//src/yi/etf/studiranje/datoteke/util/FileUtil.java=UTF-8
+encoding/<project>=UTF-8
